@@ -1,6 +1,4 @@
- <script>/*<![CDATA[*/
- < script > /*<![CDATA[*/
-     // change median ui slider version 1.7 to random post
+ // change median ui slider version 1.7 to random post
      // by www.wendycode.com
      // made 27-05-2023 18:42 WIB
      (function(_0x4ac941, _0x529af7) {
